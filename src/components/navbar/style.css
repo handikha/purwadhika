@@ -1,0 +1,51 @@
+.nav-menu {
+  @apply absolute left-0 right-0 top-full flex origin-top-right translate-x-full flex-col items-center gap-x-10 divide-y p-4 shadow-md duration-200 sm:static sm:translate-x-0 sm:flex-row sm:divide-none sm:p-0 sm:shadow-none;
+}
+
+.nav-menu.active {
+  @apply translate-x-0;
+}
+
+.nav-link {
+  @apply relative block w-full py-4 font-medium text-dark duration-200 active:scale-95 sm:inline sm:w-fit sm:p-0 sm:active:scale-100;
+}
+
+.nav-link::after {
+  @apply absolute left-0 top-full h-[3px] w-3/4 origin-left scale-x-0 rounded-full bg-none duration-200 content-[""] sm:bg-primary;
+}
+
+.nav-link:hover::after {
+  @apply scale-x-100 bg-none sm:bg-teal-400;
+}
+
+.nav-link.active::after {
+  @apply scale-x-100 bg-none sm:bg-primary;
+}
+
+.nav-link.active {
+  @apply text-primary sm:text-dark;
+}
+
+.nav-button {
+  @apply cursor-pointer rounded-md p-3 sm:hidden;
+}
+
+.nav-button span {
+  @apply block h-[3px] w-[21px] rounded-full bg-primary duration-200;
+}
+
+.nav-button span:nth-child(2) {
+  @apply my-1;
+}
+
+.nav-button.active span:nth-child(1) {
+  @apply origin-top-left rotate-45;
+}
+
+.nav-button.active span:nth-child(2) {
+  @apply scale-0;
+}
+
+.nav-button.active span:nth-child(3) {
+  @apply origin-bottom-left -rotate-45;
+}

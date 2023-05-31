@@ -1,0 +1,437 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 1
+        },
+        {
+          "id": 11
+        }
+      ],
+      "liked": [
+        {
+          "id": 2
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 13
+        }
+      ],
+      "saved": [
+        {
+          "id": 3
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password456",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 2
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 22
+        }
+      ],
+      "liked": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 19
+        }
+      ],
+      "saved": [
+        {
+          "id": 5
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "email": "david@example.com",
+      "password": "password789",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 3
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 23
+        }
+      ],
+      "liked": [
+        {
+          "id": 3
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 20
+        }
+      ],
+      "saved": [
+        {
+          "id": 1
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 18
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "email": "sarah@example.com",
+      "password": "passwordabc",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 4
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 24
+        }
+      ],
+      "liked": [
+        {
+          "id": 5
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 15
+        }
+      ],
+      "saved": [
+        {
+          "id": 2
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 20
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "password": "passworddef",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 5
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 25
+        }
+      ],
+      "liked": [
+        {
+          "id": 1
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 21
+        }
+      ],
+      "saved": [
+        {
+          "id": 3
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Christopher Wilson",
+      "email": "chris@example.com",
+      "password": "passwordghi",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 6
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 26
+        }
+      ],
+      "liked": [
+        {
+          "id": 2
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 17
+        }
+      ],
+      "saved": [
+        {
+          "id": 4
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "password": "passwordjkl",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 7
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 27
+        }
+      ],
+      "liked": [
+        {
+          "id": 3
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 23
+        }
+      ],
+      "saved": [
+        {
+          "id": 5
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "William Thompson",
+      "email": "william@example.com",
+      "password": "passwordmno",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 8
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 28
+        }
+      ],
+      "liked": [
+        {
+          "id": 4
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 19
+        }
+      ],
+      "saved": [
+        {
+          "id": 6
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 26
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Daniel Martinez",
+      "email": "daniel@example.com",
+      "password": "passwordpqr",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 9
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 29
+        }
+      ],
+      "liked": [
+        {
+          "id": 5
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 20
+        }
+      ],
+      "saved": [
+        {
+          "id": 7
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 27
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Olivia Taylor",
+      "email": "olivia@example.com",
+      "password": "passwordstu",
+      "image": "https://source.unsplash.com/featured/?person",
+      "blogs": [
+        {
+          "id": 10
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 30
+        }
+      ],
+      "liked": [
+        {
+          "id": 6
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 21
+        }
+      ],
+      "saved": [
+        {
+          "id": 8
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 28
+        }
+      ]
+    }
+  ]
+}

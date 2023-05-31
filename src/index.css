@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  input {
+    caret-color: #14b8a6;
+    caret-width: 2px;
+    @apply inline-block w-full rounded-full border-[1px]  px-5 py-2 font-poppins shadow-md outline-none focus:ring-[1px] focus:ring-primary/30;
+  }
+
+  html {
+    @apply scroll-smooth font-poppins duration-100;
+  }
+
+  h3 {
+    @apply text-xl font-semibold text-dark;
+  }
+}
+
+@layer components {
+  /* @import url("./elements/Button/Button.css"); */
+  @import url("./components/card/style.css");
+  @import url("./components/navbar/style.css");
+}

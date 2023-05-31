@@ -1,0 +1,441 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": 1,
+      "title": "Introduction to JavaScript",
+      "content": "Learn the basics of JavaScript programming language.",
+      "likes": 10,
+      "views": 100,
+      "date": "2023-05-30",
+      "image": "https://source.unsplash.com/featured/?code",
+      "tags": [
+        "JavaScript",
+        "Programming"
+      ]
+    },
+    {
+      "id": 2,
+      "author": 2,
+      "title": "Getting Started with Python",
+      "content": "Discover the fundamentals of Python programming.",
+      "likes": 5,
+      "views": 50,
+      "date": "2023-05-29",
+      "image": "https://source.unsplash.com/featured/?python",
+      "tags": [
+        "Python",
+        "Programming"
+      ]
+    },
+    {
+      "id": 3,
+      "author": 3,
+      "title": "Mastering CSS Selectors",
+      "content": "Learn advanced CSS selector techniques for styling web pages.",
+      "likes": 8,
+      "views": 80,
+      "date": "2023-05-28",
+      "image": "https://source.unsplash.com/featured/?css",
+      "tags": [
+        "CSS",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 4,
+      "author": 4,
+      "title": "Building RESTful APIs with Node.js",
+      "content": "Create powerful RESTful APIs using Node.js and Express.",
+      "likes": 12,
+      "views": 120,
+      "date": "2023-05-27",
+      "image": "https://source.unsplash.com/featured/?node.js",
+      "tags": [
+        "Node.js",
+        "Backend",
+        "API"
+      ]
+    },
+    {
+      "id": 5,
+      "author": 5,
+      "title": "Responsive Web Design Principles",
+      "content": "Explore the principles of responsive web design for mobile-friendly websites.",
+      "likes": 7,
+      "views": 70,
+      "date": "2023-05-26",
+      "image": "https://source.unsplash.com/featured/?responsive",
+      "tags": [
+        "Web Design",
+        "Frontend"
+      ]
+    },
+    {
+      "id": 6,
+      "author": 6,
+      "title": "Introduction to Object-Oriented Programming",
+      "content": "Learn the concepts of object-oriented programming and how to apply them.",
+      "likes": 9,
+      "views": 90,
+      "date": "2023-05-25",
+      "image": "https://source.unsplash.com/featured/?oop",
+      "tags": [
+        "Programming",
+        "Object-oriented"
+      ]
+    },
+    {
+      "id": 7,
+      "author": 7,
+      "title": "Database Design Best Practices",
+      "content": "Discover best practices for designing efficient and scalable databases.",
+      "likes": 6,
+      "views": 60,
+      "date": "2023-05-24",
+      "image": "https://source.unsplash.com/featured/?database",
+      "tags": [
+        "Database",
+        "Data Management"
+      ]
+    },
+    {
+      "id": 8,
+      "author": 8,
+      "title": "Getting Started with React",
+      "content": "Learn the fundamentals of building web applications with React framework.",
+      "likes": 11,
+      "views": 110,
+      "date": "2023-05-23",
+      "image": "https://source.unsplash.com/featured/?react",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 9,
+      "author": 9,
+      "title": "Securing Web Applications with JWT",
+      "content": "Implement JSON Web Tokens (JWT) for secure authentication and authorization.",
+      "likes": 4,
+      "views": 40,
+      "date": "2023-05-22",
+      "image": "https://source.unsplash.com/featured/?security",
+      "tags": [
+        "Security",
+        "authentication",
+        "authorization"
+      ]
+    },
+    {
+      "id": 10,
+      "author": 10,
+      "title": "Data Visualization with D3.js",
+      "content": "Create stunning data visualizations using the D3.js library.",
+      "likes": 15,
+      "views": 150,
+      "date": "2023-05-21",
+      "image": "https://source.unsplash.com/featured/?datavisualization",
+      "tags": [
+        "data visualization",
+        "Frontend",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 11,
+      "author": 1,
+      "title": "Building Scalable Web Applications",
+      "content": "Learn strategies for building scalable web applications that can handle high traffic.",
+      "likes": 8,
+      "views": 80,
+      "date": "2023-05-20",
+      "image": "https://source.unsplash.com/featured/?scalability",
+      "tags": [
+        "Web Development",
+        "scalability"
+      ]
+    },
+    {
+      "id": 12,
+      "author": 2,
+      "title": "Working with APIs in JavaScript",
+      "content": "Learn how to consume APIs and fetch data using JavaScript.",
+      "likes": 6,
+      "views": 60,
+      "date": "2023-05-19",
+      "image": "https://source.unsplash.com/featured/?api",
+      "tags": [
+        "JavaScript",
+        "API",
+        "Data Fetching"
+      ]
+    },
+    {
+      "id": 13,
+      "author": 3,
+      "title": "Python Web Scraping Tutorial",
+      "content": "Discover how to extract data from websites using Python web scraping techniques.",
+      "likes": 10,
+      "views": 100,
+      "date": "2023-05-18",
+      "image": "https://source.unsplash.com/featured/?webscraping",
+      "tags": [
+        "Python",
+        "web scraping"
+      ]
+    },
+    {
+      "id": 14,
+      "author": 4,
+      "title": "Introduction to TypeScript",
+      "content": "Learn the basics of TypeScript, a statically typed superset of JavaScript.",
+      "likes": 7,
+      "views": 70,
+      "date": "2023-05-17",
+      "image": "https://source.unsplash.com/featured/?typescript",
+      "tags": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 15,
+      "author": 5,
+      "title": "Optimizing Website Performance",
+      "content": "Discover techniques for optimizing website performance and improving page speed.",
+      "likes": 9,
+      "views": 90,
+      "date": "2023-05-16",
+      "image": "https://source.unsplash.com/featured/?performance",
+      "tags": [
+        "Web Development",
+        "performance"
+      ]
+    },
+    {
+      "id": 16,
+      "author": 6,
+      "title": "Building a Full-Stack Application with MERN",
+      "content": "Learn how to build a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.",
+      "likes": 12,
+      "views": 120,
+      "date": "2023-05-15",
+      "image": "https://source.unsplash.com/featured/?mern",
+      "tags": [
+        "mern",
+        "full-stack",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 17,
+      "author": 7,
+      "title": "Deploying React Apps to Netlify",
+      "content": "Explore the process of deploying React applications to Netlify hosting platform.",
+      "likes": 5,
+      "views": 50,
+      "date": "2023-05-14",
+      "image": "https://source.unsplash.com/featured/?netlify",
+      "tags": [
+        "React",
+        "deployment",
+        "hosting"
+      ]
+    },
+    {
+      "id": 18,
+      "author": 8,
+      "title": "Secure Coding Practices",
+      "content": "Learn essential secure coding practices to prevent common vulnerabilities in software development.",
+      "likes": 11,
+      "views": 110,
+      "date": "2023-05-13",
+      "image": "https://source.unsplash.com/featured/?securitycoding",
+      "tags": [
+        "Security",
+        "Coding",
+        "Software Development"
+      ]
+    },
+    {
+      "id": 19,
+      "author": 9,
+      "title": "Testing React Components with Jest",
+      "content": "Learn how to write unit tests for React components using the Jest testing framework.",
+      "likes": 6,
+      "views": 60,
+      "date": "2023-05-12",
+      "image": "https://source.unsplash.com/featured/?testing",
+      "tags": [
+        "React",
+        "Testing",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 20,
+      "author": 10,
+      "title": "Getting Started with Vue.js",
+      "content": "Discover the basics of Vue.js framework for building interactive web applications.",
+      "likes": 8,
+      "views": 80,
+      "date": "2023-05-11",
+      "image": "https://source.unsplash.com/featured/?vue.js",
+      "tags": [
+        "Vue.js",
+        "Frontend",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 21,
+      "author": 1,
+      "title": "Data Structures and Algorithms in Java",
+      "content": "Learn essential data structures and algorithms concepts using the Java programming language.",
+      "likes": 9,
+      "views": 90,
+      "date": "2023-05-10",
+      "image": "https://source.unsplash.com/featured/?java",
+      "tags": [
+        "Java",
+        "Data Structures",
+        "Algorithms"
+      ]
+    },
+    {
+      "id": 22,
+      "author": 2,
+      "title": "Building Real-time Chat Applications with Socket.io",
+      "content": "Create interactive real-time chat applications using Socket.io library and Node.js.",
+      "likes": 4,
+      "views": 40,
+      "date": "2023-05-09",
+      "image": "https://source.unsplash.com/featured/?socket.io",
+      "tags": [
+        "Real-time",
+        "Chat",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 23,
+      "author": 3,
+      "title": "Advanced CSS Techniques for Modern Web Design",
+      "content": "Explore advanced CSS techniques for creating modern and visually appealing web designs.",
+      "likes": 7,
+      "views": 70,
+      "date": "2023-05-08",
+      "image": "https://source.unsplash.com/featured/?cssdesign",
+      "tags": [
+        "CSS",
+        "Web Design"
+      ]
+    },
+    {
+      "id": 24,
+      "author": 4,
+      "title": "Building RESTful APIs with Django",
+      "content": "Create RESTful APIs using the Django framework for building robust web applications.",
+      "likes": 10,
+      "views": 100,
+      "date": "2023-05-07",
+      "image": "https://source.unsplash.com/featured/?django",
+      "tags": [
+        "Django",
+        "Backend",
+        "API"
+      ]
+    },
+    {
+      "id": 25,
+      "author": 5,
+      "title": "Introduction to Web Accessibility",
+      "content": "Learn the principles and techniques of web accessibility for creating inclusive web experiences.",
+      "likes": 6,
+      "views": 60,
+      "date": "2023-05-06",
+      "image": "https://source.unsplash.com/featured/?accessibility",
+      "tags": [
+        "Web Development",
+        "Accessibility"
+      ]
+    },
+    {
+      "id": 26,
+      "author": 6,
+      "title": "Building Scalable Applications with Microservices Architecture",
+      "content": "Explore microservices architecture for building scalable and modular applications.",
+      "likes": 11,
+      "views": 110,
+      "date": "2023-05-05",
+      "image": "https://source.unsplash.com/featured/?microservices",
+      "tags": [
+        "Microservices",
+        "Scalability",
+        "Software Architecture"
+      ]
+    },
+    {
+      "id": 27,
+      "author": 7,
+      "title": "Securing Web Applications with OAuth 2.0",
+      "content": "Implement OAuth 2.0 for secure authentication and authorization in web applications.",
+      "likes": 5,
+      "views": 50,
+      "date": "2023-05-04",
+      "image": "https://source.unsplash.com/featured/?oauth",
+      "tags": [
+        "Security",
+        "Authentication",
+        "Authorization"
+      ]
+    },
+    {
+      "id": 28,
+      "author": 8,
+      "title": "Testing Express APIs with Postman",
+      "content": "Learn how to test Express APIs using Postman, a popular API testing tool.",
+      "likes": 9,
+      "views": 90,
+      "date": "2023-05-03",
+      "image": "https://source.unsplash.com/featured/?postman",
+      "tags": [
+        "API",
+        "Testing",
+        "Express"
+      ]
+    },
+    {
+      "id": 29,
+      "author": 9,
+      "title": "Building Progressive Web Apps (PWA)",
+      "content": "Discover the principles and techniques for building Progressive Web Apps (PWA) with offline capabilities.",
+      "likes": 4,
+      "views": 40,
+      "date": "2023-05-02",
+      "image": "https://source.unsplash.com/featured/?pwa",
+      "tags": [
+        "Progressive Web Apps",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 30,
+      "author": 10,
+      "title": "Introduction to Angular Framework",
+      "content": "Get started with Angular, a popular JavaScript framework for building web applications.",
+      "likes": 8,
+      "views": 80,
+      "date": "2023-05-01",
+      "image": "https://source.unsplash.com/featured/?angular",
+      "tags": [
+        "Angular",
+        "Frontend",
+        "JavaScript"
+      ]
+    }
+  ]
+}
